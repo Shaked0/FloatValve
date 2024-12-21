@@ -1,10 +1,10 @@
 # FloatValve
 3D printed float valve for 16mm flexible watering pipes.
 # Requirements:
-95A or similar TPU
-waterproof fillament such as PETG or ASA/ABS
-RTV sealant
-Cyanoacrylate Glue
+95A or similar TPU<br\>
+waterproof fillament such as PETG or ASA/ABS<br\>
+RTV sealant<br\>
+Cyanoacrylate Glue<br\>
 # Assembly:
 *video*
 
