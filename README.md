@@ -4,7 +4,7 @@ Parameters can **And should be** be adjusted in the project file under *Tweaks* 
 (freecad ver 1.0 as of this making)
 
 # Requirements:
-95A or similar TPU<br/>
+TPU fillament preferably softer then 95A <br/>
 waterproof fillament such as PETG or ASA/ABS<br/>
 RTV sealant<br/>
 Cyanoacrylate Glue
