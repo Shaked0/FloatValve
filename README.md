@@ -1,6 +1,7 @@
 # FloatValve
 3D printed float valve for 16mm flexible watering pipes. <br/>
-Parameters can **And should be** be adjusted in the project file under *Tweaks* spreadsheet (requires FreeCad to be installed) (ver 1.0 as of this making)
+Parameters can **And should be** be adjusted in the project file under *Tweaks* spreadsheet (requires FreeCad to be installed) <br/>
+(freecad ver 1.0 as of this making)
 
 # Requirements:
 95A or similar TPU<br/>
